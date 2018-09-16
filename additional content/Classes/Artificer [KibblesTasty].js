@@ -588,7 +588,7 @@ ClassSubList["artificer-gadgetsmith"] = {
       "enhanced grappling hook" : {
         name : "Enhanced Grappling Hook",
         description : desc([
-          "You enhance your grappling hook, increasing its range to 40 feet."m
+          "You enhance your grappling hook, increasing its range to 40 feet.",
           "Additionally, the enhanced power of the grappling hook means that when pulling yourself to a larger or larger creature or object, you can drag one medium or smaller willing or grappled creature within 5 feet of you with you."
         ]),
         prereqeval : "classes.known.artificer.level >= 1"
